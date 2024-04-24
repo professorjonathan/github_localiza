@@ -1,3 +1,13 @@
+Projeto desenvolvido em REACT com TYPESCRIPT e API do GITHUB:
+A principal funcionalidade é buscar por usuários do GitHub e trazer os dados via resposta da API, tipando os dados com TypeScript, além de ter o controle de rotas (páginas) com o React Router DOM
+
+![image](https://github.com/professorjonathan/github_localiza/assets/115835116/2bdb8088-9e70-4b2d-9701-ad8b884f6082)
+
+
+![image](https://github.com/professorjonathan/github_localiza/assets/115835116/3d33d1d4-0fe9-4fef-92e9-356593c3e069)
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
